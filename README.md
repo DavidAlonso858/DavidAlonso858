@@ -1,5 +1,5 @@
 <h1 align="center">Hi There! 👉💻</h1>
-<h3 align="center">I’m David Alonso, a student and Developer. I am developing and have developed in different languages like Java, JavaScript, HTML, CSS, SQL and others that i'm learning more. I'm always learning and looking for new challenges 🚀.</h3>
+<h3 align="center">I’m David Alonso, a student and Developer. I am developing and have developed in different languages like Java, JavaScript, HTML, CSS, SQL... . I'm always learning and looking for new challenges 🚀.</h3>
 
 - 💬 Ask me about **Java, JavaScript, HTML, CSS...**
 
