@@ -1,5 +1,5 @@
 <h1 align="center">Hi There! 👉💻</h1>
-<h3 align="center">I’m David Alonso, a student and Developer. I am developing and have developed in different languages like Java (Spring, Jakarta), JavaScript (TypeScript, Angular), HTML, CSS, SQL and others that I'm investigating more. Always learning and looking for new challenges 🚀.</h3>
+<h3 align="center">David Alonso, student and developer. I'm developing and have developed in different languages like Java (Spring, Jakarta), JavaScript (TypeScript, Angular), HTML, CSS, SQL and others I'm currently exploring. Always learning and looking for new challenges 🚀.</h3>
 
 - 💬 Ask me about **Git, GitHub, Docker, Bootstap, Tailwind...**
 
