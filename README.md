@@ -1,7 +1,7 @@
 <h1 align="center">Hi There! 👉💻</h1>
 <h3 align="center">David Alonso, student and developer. I'm developing and have developed in different languages like Java (Spring, Jakarta), JavaScript (TypeScript, Angular), HTML, CSS, SQL and others I'm currently exploring. Always learning and looking for new challenges 🚀.</h3>
 
-- 💬 Ask me about **Angular, Spring Boot, Git, GitHub, Docker, Bootstrap, **
+- 💬 Ask me about **Angular, Spring Boot, Git, GitHub, Docker, Bootstrap...**
 
 - 📫 How to reach me **davidmadrid858@gmail.com**
 
